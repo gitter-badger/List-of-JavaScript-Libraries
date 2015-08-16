@@ -14,11 +14,11 @@ This is a list of notable JavaScript libraries.
 ## DOM (manipulation) Oriented <a id="DOM-\(manipulation\)-Oriented"></a>
 
 - Dojo Toolkit <a href="http://dojotoolkit.org/" target="_blank">(Website,</a> <a href="https://github.com/dojo" target="_blank">GitHub)</a>
-- jQuery 
-- midori
-- MooTools
-- Prototype JavaScript Framework
-- YUI Library
+- jQuery <a href="http://jquery.com/" target="_blank">(Website,</a> <a href="https://github.com/jquery" target="_blank">GitHub)</a>
+- midori <a href="http://www.midorijs.com/" target="_blank">(Website)</a> 
+- MooTools <a href="http://mootools.net/" target="_blank">(Website,</a> <a href="https://github.com/mootools" target="_blank">GitHub)</a>
+- Prototype JavaScript Framework <a href="http://prototypejs.org/" target="_blank">(Website,</a> <a href="https://github.com/sstephenson/prototype" target="_blank">GitHub)</a>
+- YUI Library <a href="http://yuilibrary.com/" target="_blank">(Website,</a> <a href="https://github.com/yui" target="_blank">GitHub)</a>
 
 ## Graphical/visualization (canvas or SVG related)
 
