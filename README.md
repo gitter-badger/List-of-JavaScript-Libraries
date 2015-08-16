@@ -3,13 +3,13 @@ This is a list of notable JavaScript libraries.
 
 ## Table of Contents
 
-- [DOM (manipulation) Oriented] (#DOM-\(manipulation\)-Oriented)
-- [Graphical/visualization (canvas or SVG related)] (#Graphical/visualization-\(canvas-or-SVG-related\))
-- [GUI-related (widget)] (#GUI-related-\(widget\))
-- [Pure JavaScript/Ajax] (#Pure-JavaScript/Ajax)
-- [Template systems] (#Template-systems)
-- [Unit testing] (#Unit-testing)
-- [Web-application related (MVC, MVVM)] (#Web-application-related-\(MVC, MVVM\))
+- [DOM (manipulation) Oriented](#DOM-\(manipulation\)-Oriented)
+- [Graphical/visualization (canvas or SVG related)](#Graphical/visualization-\(canvas-or-SVG-related\))
+- [GUI-related (widget)](#GUI-related-\(widget\))
+- [Pure JavaScript/Ajax](#Pure-JavaScript/Ajax)
+- [Template systems](#Template-systems)
+- [Unit testing](#Unit-testing)
+- [Web-application related (MVC, MVVM)](#Web-application-related-\(MVC, MVVM\))
 
 ## DOM (manipulation) Oriented
 
