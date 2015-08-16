@@ -13,8 +13,8 @@ This is a list of notable JavaScript libraries.
 
 ## DOM (manipulation) Oriented
 
-- [Dojo Toolkit] (http://dojotoolkit.org/)
-- jQuery [GitHub] (https://github.com/jquery/jquery) [Website] (http://jquery.com/)
+- Dojo Toolkit <a href="http://dojotoolkit.org/" target="_blank">(Website,</a> <a href="https://github.com/dojo" target="_blank">GitHub)</a>
+- jQuery 
 - midori
 - MooTools
 - Prototype JavaScript Framework
