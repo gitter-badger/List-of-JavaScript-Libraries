@@ -1,2 +1,2 @@
 # List-of-JavaScript-Libraries
-his is a list of notable JavaScript libraries.
+This is a list of notable JavaScript libraries.
