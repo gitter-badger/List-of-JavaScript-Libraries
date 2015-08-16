@@ -11,7 +11,7 @@ This is a list of notable JavaScript libraries.
 - [Unit testing](#Unit-testing)
 - [Web-application related (MVC, MVVM)](#Web-application-related-\(MVC, MVVM\))
 
-## DOM (manipulation) Oriented
+## DOM (manipulation) Oriented <a id="DOM-\(manipulation\)-Oriented"></a>
 
 - Dojo Toolkit <a href="http://dojotoolkit.org/" target="_blank">(Website,</a> <a href="https://github.com/dojo" target="_blank">GitHub)</a>
 - jQuery 
