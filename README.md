@@ -1,4 +1,9 @@
 # List of JavaScript Libraries
+[![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/network)
+[![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/issues)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/AnanthaRajuC/List-of-JavaScript-Libraries.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+
 This is a list of notable JavaScript libraries.
 
 ## Table of Contents
