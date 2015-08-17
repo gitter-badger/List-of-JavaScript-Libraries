@@ -1,4 +1,6 @@
 # List of JavaScript Libraries
+
+[![Join the chat at https://gitter.im/AnanthaRajuC/List-of-JavaScript-Libraries](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AnanthaRajuC/List-of-JavaScript-Libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/network)
 [![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-JavaScript-Libraries.svg)](https://github.com/AnanthaRajuC/List-of-JavaScript-Libraries/issues)
