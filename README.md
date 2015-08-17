@@ -84,10 +84,10 @@ This is a list of notable JavaScript libraries.
 
 ## Unit testing
 
-- Jasmine
-- Mocha
-- QUnit
-- Unit.js
+- Jasmine <a href="http://jasmine.github.io/" target="_blank">(Website,</a> <a href="https://github.com/jasmine/jasmine" target="_blank">GitHub)</a>
+- Mocha <a href="http://mochajs.org/" target="_blank">(Website,</a> <a href="https://github.com/mochajs/mocha" target="_blank">GitHub)</a>
+- QUnit <a href="http://qunitjs.com/" target="_blank">(Website,</a> <a href="https://github.com/jquery/qunit" target="_blank">GitHub)</a>
+- Unit.js <a href="http://unitjs.com/" target="_blank">(Website,</a> <a href="https://github.com/unitjs/unit.js" target="_blank">GitHub)</a>
 
 ## Web-application related (MVC, MVVM)
 
