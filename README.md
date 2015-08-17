@@ -40,20 +40,19 @@ This is a list of notable JavaScript libraries.
  
 ## GUI-related (widget)
 
-- AngularJS
-- Bootstrap
-- DHTMLX
-- DHTMLX
-- Ext JS of Sencha
-- ZURB Foundation
-- Google's Polymer paper elements
-- jQuery UI
-- Kendo UI of Telerik
-- OpenUI5 of SAP
-- qooxdoo
-- SmartClient
-- Webix
-- WinJS
+- AngularJS <a href="https://angularjs.org/" target="_blank">(Website,</a> <a href="https://github.com/angular/angular.js" target="_blank">GitHub)</a>
+- Bootstrap <a href="http://getbootstrap.com/" target="_blank">(Website,</a> <a href="https://github.com/twbs/bootstrap" target="_blank">GitHub)</a>
+- DHTMLX <a href="http://dhtmlx.com/" target="_blank">(Website,</a> <a href="https://github.com/DHTMLX" target="_blank">GitHub)</a>
+- Ext JS of Sencha <a href="https://www.sencha.com/products/extjs/#overview" target="_blank">(Website,</a> <a href="https://github.com/extjs" target="_blank">GitHub)</a>
+- ZURB Foundation <a href="http://foundation.zurb.com/" target="_blank">(Website,</a> <a href="https://github.com/zurb/foundation" target="_blank">GitHub)</a>
+- Google's Polymer paper elements <a href="https://www.polymer-project.org/0.5/components/paper-elements/demo.html#paper-input" target="_blank">(Website,</a> <a href="https://github.com/Polymer/polymer" target="_blank">GitHub)</a>
+- jQuery UI <a href="http://jqueryui.com/" target="_blank">(Website,</a> <a href="https://github.com/jquery/jquery-ui" target="_blank">GitHub)</a>
+- Kendo UI of Telerik <a href="http://www.telerik.com/kendo-ui" target="_blank">(Website,</a> <a href="https://github.com/telerik/kendo-ui-core" target="_blank">GitHub)</a>
+- OpenUI5 of SAP <a href="http://openui5.org/" target="_blank">(Website,</a> <a href="https://github.com/SAP/openui5/" target="_blank">GitHub)</a>
+- qooxdoo <a href="http://qooxdoo.org/" target="_blank">(Website,</a> <a href="https://github.com/qooxdoo/qooxdoo" target="_blank">GitHub)</a>
+- SmartClient  <a href="http://www.smartclient.com/product/smartclient.jsp" target="_blank">(Website,</a> <a href="https://github.com/rgrempel/isomorphic" target="_blank">GitHub)</a>
+- Webix  <a href="http://webix.com/" target="_blank">(Website,</a> <a href="https://github.com/webix-hub" target="_blank">GitHub)</a>
+- WinJS  <a href="http://try.buildwinjs.com/#listviewinteractions" target="_blank">(Website,</a> <a href="https://github.com/winjs/winjs" target="_blank">GitHub)</a>
  
 > No longer actively developed
 
