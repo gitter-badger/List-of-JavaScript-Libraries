@@ -77,10 +77,10 @@ This is a list of notable JavaScript libraries.
 
 ## Template systems
 
-- Cascade Framework
-- Handlebars
-- jQuery Mobile
-- Mustache
+- Cascade Framework <a href="http://www.cascade-framework.com/" target="_blank">(Website,</a> <a href="https://github.com/jslegers/cascadeframework/" target="_blank">GitHub)</a>
+- Handlebars <a href="http://handlebarsjs.com/" target="_blank">(Website,</a> <a href="https://github.com/wycats/handlebars.js/" target="_blank">GitHub)</a>
+- jQuery Mobile <a href="http://jquerymobile.com/" target="_blank">(Website,</a> <a href="https://github.com/jquery/jquery-mobile" target="_blank">GitHub)</a>
+- Mustache <a href="https://mustache.github.io/" target="_blank">(Website,</a> <a href="https://github.com/mustache/mustache.github.com" target="_blank">GitHub)</a>
 
 ## Unit testing
 
