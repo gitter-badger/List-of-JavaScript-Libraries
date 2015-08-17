@@ -112,4 +112,5 @@ This is a list of notable JavaScript libraries.
 
 ## Other
 
-- Modernizr
+- Modernizr <a href="http://modernizr.com/" target="_blank">(Website,</a> <a href="https://github.com/Modernizr/Modernizr" target="_blank">GitHub)</a>
+
