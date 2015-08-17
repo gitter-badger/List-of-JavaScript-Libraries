@@ -27,16 +27,16 @@ This is a list of notable JavaScript libraries.
 
 ## Graphical/visualization (canvas or SVG related)
 
-- D3.js
-- EaselJS, part of CreateJS
-- Plotly
-- JavaScript InfoVis Toolkit
-- Kinetic.js
-- Processing.js
-- Raphaël
-- SWFObject
-- Three.js
-- Velocity.js
+- D3.js <a href="http://d3js.org/" target="_blank">(Website,</a> <a href="https://github.com/mbostock/d3" target="_blank">GitHub)</a>
+- EaselJS, part of CreateJS <a href="http://www.createjs.com/easeljs" target="_blank">(Website,</a> <a href="https://github.com/CreateJS" target="_blank">GitHub)</a>
+- Plotly <a href="https://plot.ly/" target="_blank">(Website,</a> <a href="https://github.com/plotly" target="_blank">GitHub)</a>
+- JavaScript InfoVis Toolkit <a href="http://philogb.github.io/jit/" target="_blank">(Website,</a> <a href="https://github.com/philogb/jit" target="_blank">GitHub)</a>
+- Kinetic.js <a href="http://www.kineticjs.com/" target="_blank">(Website,</a> <a href="https://github.com/ericdrowell/KineticJS/" target="_blank">GitHub)</a>
+- Processing.js <a href="http://processingjs.org/" target="_blank">(Website,</a> <a href="https://github.com/processing-js/processing-js/" target="_blank">GitHub)</a>
+- Raphaël <a href="http://raphaeljs.com/" target="_blank">(Website,</a> <a href="https://github.com/DmitryBaranovskiy/raphael/" target="_blank">GitHub)</a>
+- SWFObject <a href="https://code.google.com/p/swfobject/" target="_blank">(Website,</a> <a href="https://github.com/swfobject/swfobject" target="_blank">GitHub)</a>
+- Three.js <a href="http://threejs.org/" target="_blank">(Website,</a> <a href="https://github.com/mrdoob/three.js/" target="_blank">GitHub)</a>
+- Velocity.js <a href="http://julian.com/research/velocity/" target="_blank">(Website,</a> <a href="https://github.com/julianshapiro/velocity" target="_blank">GitHub)</a>
  
 ## GUI-related (widget)
 
