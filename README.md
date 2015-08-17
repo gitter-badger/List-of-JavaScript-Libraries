@@ -91,24 +91,24 @@ This is a list of notable JavaScript libraries.
 
 ## Web-application related (MVC, MVVM)
 
-- AngularJS
-- Backbone.js
-- Cappuccino
-- Chaplin.js
-- Echo
-- Ember.js
-- Enyo
-- Ext JS
-- Google Web Toolkit
-- JavaScriptMVC
-- Knockout
-- Meteor
-- MooTools
-- Prototype JavaScript Framework
-- React.js
-- Rialto Toolkit
-- SproutCore
-- Wakanda Framework
+- AngularJS <a href="https://angularjs.org/" target="_blank">(Website,</a> <a href="https://github.com/angular/angular.js" target="_blank">GitHub)</a>
+- Backbone.js <a href="http://backbonejs.org/" target="_blank">(Website,</a> <a href="https://github.com/jashkenas/backbone" target="_blank">GitHub)</a>
+- Cappuccino <a href="http://www.cappuccino-project.org/" target="_blank">(Website,</a> <a href="https://github.com/cappuccino/cappuccino" target="_blank">GitHub)</a>
+- Chaplin.js <a href="http://chaplinjs.org/" target="_blank">(Website,</a> <a href="https://github.com/chaplinjs/chaplin" target="_blank">GitHub)</a>
+- Echo <a href="http://echo.labstack.com/" target="_blank">(Website,</a> <a href="https://github.com/labstack/echo" target="_blank">GitHub)</a>
+- Ember.js <a href="http://emberjs.com/" target="_blank">(Website,</a> <a href="https://github.com/emberjs/ember.js" target="_blank">GitHub)</a>
+- Enyo <a href="http://enyojs.com/" target="_blank">(Website,</a> <a href="https://github.com/enyojs/enyo" target="_blank">GitHub)</a>
+- Ext JS <a href="https://www.sencha.com/products/extjs/#overview" target="_blank">(Website,</a> <a href="https://github.com/extjs/extjs-theme" target="_blank">GitHub)</a>
+- Google Web Toolkit <a href="http://www.gwtproject.org/" target="_blank">(Website,</a> <a href="https://github.com/gwtproject/gwt" target="_blank">GitHub)</a>
+- JavaScriptMVC <a href="http://www.javascriptmvc.com/" target="_blank">(Website,</a> <a href="https://github.com/bitovi/javascriptmvc" target="_blank">GitHub)</a>
+- Knockout  <a href="http://knockoutjs.com/" target="_blank">(Website,</a> <a href="https://github.com/knockout/knockout/" target="_blank">GitHub)</a>
+- Meteor <a href="https://www.meteor.com/" target="_blank">(Website,</a> <a href="https://github.com/meteor/meteor" target="_blank">GitHub)</a>
+- MooTools <a href="http://mootools.net/" target="_blank">(Website,</a> <a href="https://github.com/mootools/mootools-core" target="_blank">GitHub)</a>
+- Prototype JavaScript Framework <a href="http://prototypejs.org/" target="_blank">(Website,</a> <a href="https://github.com/sstephenson/prototype" target="_blank">GitHub)</a>
+- React.js  <a href="https://facebook.github.io/react/" target="_blank">(Website,</a> <a href="https://github.com/facebook/react" target="_blank">GitHub)</a>
+- Rialto Toolkit  <a href="http://www.improve-foundations.org/factory/projects/rialto/wiki" target="_blank">(Website)</a> 
+- SproutCore <a href="http://sproutcore.com/" target="_blank">(Website,</a> <a href="https://github.com/sproutcore/sproutcore" target="_blank">GitHub)</a>
+- Wakanda Framework <a href="http://www.wakanda.org/" target="_blank">(Website,</a> <a href="https://github.com/Wakanda" target="_blank">GitHub)</a>
 
 ## Other
 
