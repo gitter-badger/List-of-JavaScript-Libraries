@@ -64,16 +64,16 @@ This is a list of notable JavaScript libraries.
 
 ## Pure JavaScript/Ajax
 
-- Google Closure Library
-- Joose
-- jsPHP
-- Microsoft's Ajax library
-- MochiKit
-- PDF.js
-- Rico
-- Socket.IO
-- Spry framework
-- Underscore.js
+- Google Closure Library <a href="https://developers.google.com/closure/library/" target="_blank">(Website,</a> <a href="https://github.com/google/closure-library/" target="_blank">GitHub)</a>
+- Joose <a href="http://joose.it/" target="_blank">(Website,</a> <a href=https://github.com/Joose/Joose" target="_blank">GitHub)</a>
+- jsPHP <a href="http://phpjs.org/" target="_blank">(Website,</a> <a href="https://github.com/kvz/phpjs" target="_blank">GitHub)</a>
+- Microsoft's Ajax library <a href="https://msdn.microsoft.com/en-us/library/ee341002.aspx" target="_blank">(Website)</a> 
+- MochiKit <a href="http://mochi.github.io/mochikit/" target="_blank">(Website,</a> <a href="https://github.com/mochi/mochikit" target="_blank">GitHub)</a>
+- PDF.js <a href="https://mozilla.github.io/pdf.js/" target="_blank">(Website,</a> <a href="https://github.com/mozilla/pdf.js" target="_blank">GitHub)</a>
+- Rico <a href="http://openrico.sourceforge.net/examples/index.html" target="_blank">(Website,</a> <a href="http://sourceforge.net/projects/openrico/" target="_blank">SourceForge)</a>
+- Socket.IO <a href="http://socket.io/" target="_blank">(Website,</a> <a href="https://github.com/socketio/socket.io/" target="_blank">GitHub)</a>
+- Spry framework <a href="http://adobe.github.io/Spry/docs.html" target="_blank">(Website,</a> <a href="https://github.com/adobe/Spry" target="_blank">GitHub)</a>
+- Underscore.js  <a href="http://underscorejs.org/" target="_blank">(Website,</a> <a href="https://github.com/jashkenas/underscore" target="_blank">GitHub)</a>
 
 ## Template systems
 
