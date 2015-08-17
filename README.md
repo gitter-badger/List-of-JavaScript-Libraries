@@ -23,7 +23,6 @@ This is a list of notable JavaScript libraries.
 - midori <a href="http://www.midorijs.com/" target="_blank">(Website)</a> 
 - MooTools <a href="http://mootools.net/" target="_blank">(Website,</a> <a href="https://github.com/mootools" target="_blank">GitHub)</a>
 - Prototype JavaScript Framework <a href="http://prototypejs.org/" target="_blank">(Website,</a> <a href="https://github.com/sstephenson/prototype" target="_blank">GitHub)</a>
-- YUI Library <a href="http://yuilibrary.com/" target="_blank">(Website,</a> <a href="https://github.com/yui" target="_blank">GitHub)</a>
 
 ## Graphical/visualization (canvas or SVG related)
 
@@ -56,12 +55,12 @@ This is a list of notable JavaScript libraries.
  
 > No longer actively developed
 
-- Ample SDK
-- Glow
-- iX Framework
-- Lively Kernel
-- Script.aculo.us
-- YUI Library
+- Ample SDK <a href="http://www.amplesdk.com/" target="_blank">(Website,</a> <a href="https://github.com/clientside/amplesdk" target="_blank">GitHub)</a>
+- Glow <a href="http://www.bbc.co.uk/glow/" target="_blank">(Website,</a> <a href="https://github.com/glow/glow2" target="_blank">GitHub)</a>
+- iX Framework <a href="http://intelligentexpert.net/" target="_blank">(Website,</a> <a href="https://github.com/adimosh/ix.framework" target="_blank">GitHub)</a>
+- Lively Kernel <a href="http://lively-kernel.org/" target="_blank">(Website,</a> <a href="https://github.com/LivelyKernel" target="_blank">GitHub)</a>
+- Script.aculo.us <a href="http://script.aculo.us/" target="_blank">(Website,</a> <a href="https://github.com/madrobby/scriptaculous" target="_blank">GitHub)</a>
+- YUI Library <a href="http://yuilibrary.com/" target="_blank">(Website,</a> <a href="https://github.com/yui" target="_blank">GitHub)</a>
 
 ## Pure JavaScript/Ajax
 
