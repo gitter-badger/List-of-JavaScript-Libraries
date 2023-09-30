@@ -109,6 +109,7 @@ This is a list of notable JavaScript libraries.
 - Rialto Toolkit  <a href="http://www.improve-foundations.org/factory/projects/rialto/wiki" target="_blank">(Website)</a> 
 - SproutCore <a href="http://sproutcore.com/" target="_blank">(Website,</a> <a href="https://github.com/sproutcore/sproutcore" target="_blank">GitHub)</a>
 - Wakanda Framework <a href="http://www.wakanda.org/" target="_blank">(Website,</a> <a href="https://github.com/Wakanda" target="_blank">GitHub)</a>
+- Svelte Framework <a href="https://svelte.dev/" target="_blank">(Website,</a> <a href="https://github.com/Wakanda" target="_blank">GitHub)</a>
 
 ## Other
 
